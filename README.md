@@ -1,7 +1,7 @@
 # ATM Interface System 🏧
 
 ## Overview
-A simple ATM system built in Java to simulate basic banking operations like balance checking, depositing, withdrawing, transferring money, and viewing transaction history. It includes basic customer authentication with a unique Customer ID.
+A simple terminal based ATM system built in Java to simulate basic banking operations like balance checking, depositing, withdrawing, transferring money, and viewing transaction history. It includes basic customer authentication with a unique Customer ID.
 
 ## Features ✨
 - **Login** 🔑: Secure login with Customer ID.
