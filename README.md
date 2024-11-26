@@ -21,18 +21,18 @@ A simple ATM system built in Java to simulate basic banking operations like bala
 ## Example Operations 📱
 1. First, the user should enter their PIN.
 2. After entering the correct PIN, there will be 6 options:
-  
-  A: Check Balance
+A: Check Balance
 
-  B: Deposit
+B: Deposit
 
-  C: Withdraw
+C: Withdraw
 
-  D: View Previous Transaction
+D: View Previous Transaction
 
-  E: Transfer Money
+E: Transfer Money
 
-  F: Exit
+F: Exit
+
 
 3. Whenever the user selects an option, the corresponding operation will be performed.
 
